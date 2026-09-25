@@ -1,0 +1,6 @@
+{
+  "name": "SkillPlay PK - Sports Skill & Quiz Competition",
+  "description": "Pakistan's premier sports skill-gaming platform featuring cricket, football, tennis, and basketball trivia, skill predictions, daily challenges, and competitive leaderboards with non-monetary virtual points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
